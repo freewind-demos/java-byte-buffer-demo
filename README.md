@@ -1,7 +1,7 @@
-Maven Demo
-==========
+Java Byte Buffer Demo
+=====================
 
-A very simple maven project demo.
+Java's `ByteBuffer` demo.
 
 ```
 mvn clean install
